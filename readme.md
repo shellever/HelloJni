@@ -204,6 +204,9 @@ sourceSets.main {
 
 **[Getting Started with the NDK (Google Official)](https://developer.android.google.cn/ndk/guides/index.html)**
 
+**[googlesamples/android-ndk](https://github.com/googlesamples/android-ndk)**
+
+
 ## Contacts
 
 **Blog: [shellever](http://www.jianshu.com/users/22e9a407c7c1/latest_articles)**
