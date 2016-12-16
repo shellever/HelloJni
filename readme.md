@@ -202,6 +202,8 @@ sourceSets.main {
 
 **[Android Studio 2.2 更方便地创建JNI项目-CMake](http://www.jianshu.com/p/4eefb16d83e3)**
 
+**[Getting Started with the NDK](https://developer.android.google.cn/ndk/guides/index.html)**
+
 ## Contacts
 
 **Blog: [shellever](http://www.jianshu.com/users/22e9a407c7c1/latest_articles)**
