@@ -4,7 +4,7 @@
 
 **正确步骤：首先生成so共享库，然后再配置到当前工程模块中进行引用**
 
-**说明：Android Studio 2.2 CMake只支持64位系统([stackflow中详细说明][stackflow])，所以只能使用ndk-build命令手动生成so共享库(自己电脑zaza，没办法)，CMake方式的可以查看文章后面提供的参考连接。**
+**说明：Android Studio 2.2 CMake只支持64位系统([stackflow中详细说明][stackflow])，所以只能使用ndk-build命令手动生成so共享库(自己32位电脑zaza，没办法)，CMake方式的可以查看文章后面提供的参考连接。**
 
 [stackflow]: http://stackoverflow.com/questions/37740147/how-to-install-the-android-studio-2-2-cmake-package-tool
 
